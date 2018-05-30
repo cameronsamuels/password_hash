@@ -1,2 +1,2 @@
-# password_hash
-php password_hash() execution
+**password_hash()**
+<br>php `password_hash()` execution
